@@ -549,6 +549,9 @@
             .nav-container {
                 padding: 0 20px;
             }
+            .logo{
+                padding-right: 16px;
+            }
 
             .nav-links {
                 gap: 20px;
@@ -598,4 +601,5 @@
             opacity: 1;
             transform: translateY(0);
         }
+
    

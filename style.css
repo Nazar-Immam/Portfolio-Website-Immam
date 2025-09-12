@@ -519,6 +519,12 @@
             align-items: left;
             justify-content: left;
         }
+        .contact-link{
+               text-decoration: none;
+        }
+       .contact-link:hover{
+              text-decoration: none:
+       }
 
         /* Footer */
         footer {
@@ -603,4 +609,5 @@
         }
 
    
+
 
